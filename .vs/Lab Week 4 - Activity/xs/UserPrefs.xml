@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{DDB50613-C16D-154F-9814-E073F3C26057}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LoadAssets.cs">
     <Files>
       <File FileName="../Lab Week 3 - Activity/Assets/Script/PlayRotation.cs" Line="13" Column="7" />
       <File FileName="../Lab Week 3 - Activity/Assets/Script/PlayAudio.cs" />
       <File FileName="Assets/Scripts/Test.cs" Line="10" Column="27" />
+      <File FileName="Assets/Scripts/LoadAssets.cs" Line="8" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
