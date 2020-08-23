@@ -3,8 +3,8 @@
     <Files>
       <File FileName="../Lab Week 3 - Activity/Assets/Script/PlayRotation.cs" Line="13" Column="7" />
       <File FileName="../Lab Week 3 - Activity/Assets/Script/PlayAudio.cs" />
-      <File FileName="Assets/Scripts/Test.cs" Line="10" Column="27" />
-      <File FileName="Assets/Scripts/LoadAssets.cs" Line="8" Column="30" />
+      <File FileName="Assets/Scripts/Test.cs" />
+      <File FileName="Assets/Scripts/LoadAssets.cs" Line="9" Column="24" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
