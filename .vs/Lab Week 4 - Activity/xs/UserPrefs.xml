@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{DDB50613-C16D-154F-9814-E073F3C26057}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Test.cs">
+    <Files>
+      <File FileName="../Lab Week 3 - Activity/Assets/Script/PlayRotation.cs" Line="13" Column="7" />
+      <File FileName="../Lab Week 3 - Activity/Assets/Script/PlayAudio.cs" />
+      <File FileName="Assets/Scripts/Test.cs" Line="10" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab Week 4 - Activity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a57ff1fb-a9de-4564-9b4f-e8ff06603e19" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
